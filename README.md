@@ -9,3 +9,5 @@ made server handle actual PR events
 set new path in url
 
 fixed err handling
+
+no secret
