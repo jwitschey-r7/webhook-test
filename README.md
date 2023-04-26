@@ -11,3 +11,5 @@ set new path in url
 fixed err handling
 
 no secret
+
+restart
