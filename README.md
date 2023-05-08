@@ -9,5 +9,3 @@ Wow, incredible
 Truly unprecedented
 
 Unbelievable 
-
-I'm speechless
